@@ -1,0 +1,10 @@
+=============== All Cars ============
+Reg No.: 1, Owner Name: George, Days Rented 0, Cost Per Day 50, PassengersNumber 1
+Reg No.: 2, Owner Name: John, Days Rented 0, Cost Per Day 50, PassengersNumber 4
+Reg No.: 3, Owner Name: Jane, Days Rented 0, Cost Per Day 50, PassengersNumber 6
+=============== All Cars ============
+=============== All Trucks ================
+Reg No.: 1, Owner Name: George, Days Rented 0, Cost Per Day 50, CargoWeight 1
+Reg No.: 2, Owner Name: John, Days Rented 0, Cost Per Day 50, CargoWeight 2
+Reg No.: 3, Owner Name: Jane, Days Rented 0, Cost Per Day 60, CargoWeight 4
+=============== All Trucks ================

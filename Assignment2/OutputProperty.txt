@@ -1,0 +1,15 @@
+=============== All Apartments ============
+Reg No.: 1, Owner Name: George, Address: Paradise_3, Days Rented 0, Cost Per Day 50, Appartment Floor 2, Beds 3
+Reg No.: 2, Owner Name: John, Address: Somewhere_4, Days Rented 0, Cost Per Day 50, Appartment Floor 3, Beds 2
+Reg No.: 3, Owner Name: Jane, Address: Devil’s_place_3, Days Rented 0, Cost Per Day 50, Appartment Floor 6, Beds 2
+=============== All Apartments ============
+=============== All Houses ================
+Reg No.: 1, Owner Name: George, Address: Paradise_13, Days Rented 0, Cost Per Day 50, No. Of Storeys: 6, Clearing Fee: 1
+Reg No.: 2, Owner Name: John, Address: Somewhere_14, Days Rented 0, Cost Per Day 60, No. Of Storeys: 8, Clearing Fee: 2
+Reg No.: 3, Owner Name: Jane, Address: Devil’s_place_13, Days Rented 0, Cost Per Day 60, No. Of Storeys: 9, Clearing Fee: 4
+=============== All Houses ================
+=============== All Villas ================
+Reg No.: 1 , Owner Name: George, Address: Paradise_23, Days Rented 0, Cost Per Day 50, Cost Of Room Service: 5, Tax Per Day: 5
+Reg No.: 2 , Owner Name: John, Address: Somewhere_24, Days Rented 0, Cost Per Day 15, Cost Of Room Service: 6, Tax Per Day: 4
+Reg No.: 3 , Owner Name: Jane, Address: Devil’s_place_23, Days Rented 0, Cost Per Day 30, Cost Of Room Service: 5, Tax Per Day: 20
+=============== All Villas ================
